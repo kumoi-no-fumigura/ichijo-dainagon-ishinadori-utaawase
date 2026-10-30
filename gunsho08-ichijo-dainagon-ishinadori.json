@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/ichijo-dainagon-ishinadori-utaawase",
  "yomi": "いちじょうだいなごんけいしなとりうたあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "物合（石名取）",
+  "era": "平安中期",
+  "author": "一条大納言（藤原為光）家",
+  "desc": "一条大納言の家で、石を拾って数を競う遊び「石名取」に合わせて詠まれた歌合。小石や浜の真砂を君の千年のためしとする祝いの歌が並ぶ。判詞はない。"
+ },
  "editions": [
   {
    "pid": "1879502",
